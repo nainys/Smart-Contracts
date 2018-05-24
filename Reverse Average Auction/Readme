@@ -1,0 +1,3 @@
+Reverse average auction takes place as follows - 
+- The agents provide their cost to complete a particular task.
+- The beneficiary takes all the input costs and chooses the agent whose cost is closest to the average.
