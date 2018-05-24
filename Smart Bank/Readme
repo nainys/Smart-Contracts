@@ -1,0 +1,36 @@
+The following tasks are accomplished - 
+
+1. Normal account Registration
+
+- Account holder must send request to open account.
+- Account can then be opened with an initial deposit which is greater than or equal to minimum balance and less than or equal to deposit limit.
+
+2. Normal account Deactivation
+
+- Account holder must send account deactivation request.
+- The account can then be deactivated balance is returned to user.
+
+4. Joint account Registration
+
+- Both account holders must send request to open account.
+- Account can then be opened with an initial deposit which is greater than or equal to minimum balance and less than or equal to deposit limit.
+
+5. Joint account Deactivation
+
+- Both account holders must send account deactivation request.
+- The account can then be deactivated balance is returned to one of the user.
+
+6. Fund Deposit
+- Money within deposit limit can be deposited by account holders in their account which gets reflected in their balance.
+
+7. Fund Transfer
+- Money can be transferred within transfer limit.
+- This gets reflected in balance of sender and receiver.
+- The receiver can then withdraw the money when required.
+
+8. Fund Withdrawal
+- Money can be withdrawn by any of the account holders from their account as long as it is under withdrawal limit and minimum balance is maintained.
+
+9. Fixed Deposit
+- Money can be kept by accound holders as fixed deposit for certain time before which it cannot be withdrawn.
+- After that time is over it can be withdrawn by any of the account holder from their account.
